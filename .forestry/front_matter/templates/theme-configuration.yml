@@ -3,8 +3,12 @@ label: Theme configuration
 hide_body: false
 fields:
 - type: text
-  name: site_name
-  label: Site name
+  name: huisproject
+  description: welkom tekst
+  hidden: false
+  label: Banaan site
+  config:
+    min: 20
 - type: textarea
   name: site_description
   label: Site description
@@ -27,6 +31,7 @@ fields:
   type: text
   hidden: false
   default: ''
+  description: Oke <strong>voettekst</strong>
 - type: boolean
   name: dark_mode
   label: Dark mode
