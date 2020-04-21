@@ -37,7 +37,6 @@ fields:
   label: Foreground color
 pages:
 - contact/test.md
-- projects/3d-graff.md
 - projects/chelsea-landmark.md
 - projects/ios-concept.md
 - projects/sunk.md
